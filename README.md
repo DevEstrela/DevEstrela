@@ -13,4 +13,14 @@
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-</div>
+</div><br/>
+
+Apaixonado por tecnologia, educação e em mudar a vidas das pessoas com programação.
+
+## Cursos em andamento
+Fabrica de aplicativos - JavaScript | React-native | NodeJS
+
+Análise e desenvolvimento de Sistemas - Universidade Mogi das Cruzes ( último semestre )
+
+
+
