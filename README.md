@@ -18,12 +18,13 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, educação e em mudar a vidas das pessoas com programação.
+Apaixonado por tecnologia, educação e ajudar pessoas.
 
 ## Cursos em andamento
+Alura - Front-end & Mobile.
 Fabrica de aplicativos - JavaScript | React-native | NodeJS
 
-Análise e desenvolvimento de Sistemas - Universidade Mogi das Cruzes ( último semestre )
+Análise e desenvolvimento de Sistemas - Universidade Mogi das Cruzes ( Formado )
 
 
 
